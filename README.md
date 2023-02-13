@@ -1,5 +1,9 @@
-# informe-tarea-7
+Informe Tarea 7
+
+Nombre: Steveen Vallejo
+
 ***1. OBJETIVOS***
+
 
 _Reforzar el trabajo y uso de las ondas seno en CA
 
